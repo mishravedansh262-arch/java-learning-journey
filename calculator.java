@@ -33,7 +33,7 @@ import java.util.*;
                 System.out.println("Invalid operator");
         }
 
-
+        sc.close();
     }
     
 }
